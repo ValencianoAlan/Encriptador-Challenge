@@ -157,7 +157,7 @@ body {
 
     /* logos alura */
     .logo__Alura {
-        width: 35px;
+        width: 100px;
         display: block;
         position: absolute;
         top: 100px;
@@ -172,7 +172,7 @@ body {
 
     /* campo de textarea */
     .container {
-        margin-top: 190px;
+        margin-top: 150px;
     }
 
     .areaEncriptar {
@@ -203,7 +203,7 @@ body {
     }
 
     .cuadro__aside {
-        margin: 3% 1% ;
+        margin: 1px;
         height: auto;
 
     }
