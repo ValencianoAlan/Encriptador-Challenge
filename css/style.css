@@ -125,10 +125,6 @@ body {
     background-color: #fff;
     box-shadow: 1px 1px 30px 1px rgb(215, 208, 208);
     border-radius: 23px;
-    -webkit-border-radius: 23px;
-    -moz-border-radius: 23px;
-    -ms-border-radius: 23px;
-    -o-border-radius: 23px;
     padding: 15px;
     margin: 7% 9% 0;
     height: 85vh;
@@ -149,10 +145,6 @@ body {
     color: #fff;
     font-family: var(--textSerif);
     border-radius: 20px;
-    -webkit-border-radius: 20px;
-    -moz-border-radius: 20px;
-    -ms-border-radius: 20px;
-    -o-border-radius: 20px;
 }
 
 
